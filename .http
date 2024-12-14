@@ -1,0 +1,20 @@
+POST https://localhost:8080/calls
+
+###
+
+GET https://localhost:8080/calls
+
+###
+
+GET https://localhost:8080/calls/1
+
+###
+
+PATCH https://localhost:8080/calls/1/status
+
+###
+
+DELETE https://localhost:8080/calls/1
+
+###
+

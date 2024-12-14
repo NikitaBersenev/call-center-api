@@ -1,0 +1,16 @@
+.git
+.gitignore
+.DS_Store
+*.log
+*.out
+*.tmp
+tmp/
+vendor/
+/bin
+/dist
+/out
+/target
+/build
+/node_modules/
+/coverage/
+/.idea/
